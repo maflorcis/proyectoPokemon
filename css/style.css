@@ -19,3 +19,12 @@
         object-fit: cover;
     }
 }
+
+/* galería Pokemon */
+#veneno{
+    background-color: blueviolet;
+}
+
+#fuego{
+    background-color: orange;
+}
