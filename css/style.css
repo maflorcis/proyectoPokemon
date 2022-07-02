@@ -36,3 +36,30 @@
 #seccionPokemones{
     background-color: lightgray;
 }
+
+
+
+/* Detalle Pokemon */
+
+
+
+@media all and (max-width: 767px){
+    #dino{
+        height:300px;
+        text-align: center;
+    }
+   
+}
+
+@media all and (min-width: 768px) and (max-width: 1100px){
+    #dino{
+        height:350px;
+    }
+}
+
+@media all and (min-width: 1101px){
+    #dino{
+        height:500px;
+    }
+
+}
